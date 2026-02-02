@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  background-color: #fff;
+}
+.card h3 {
+  font-size: 2rem;
+}
+.card p {
+  text-align: center;
+  font-size: 1rem;
+}/*# sourceMappingURL=styles.module.css.map */

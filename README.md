@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./banner.png" alt="Conecta Jovem - Projetos Sociais" />
+  <img src="/banner.png" alt="Conecta Jovem - Projetos Sociais" />
 </p>
+
 
 # 🌍 Conecta Jovem — Projetos Sociais
 

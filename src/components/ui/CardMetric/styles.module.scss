@@ -1,0 +1,18 @@
+
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  background-color: #fff;
+
+  h3 {
+    font-size: 2rem;
+  }
+
+  p {
+    text-align: center;
+    font-size: 1rem; ;
+  }
+}

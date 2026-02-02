@@ -1,0 +1,17 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.layout main {
+  display: flex;
+  justify-content: center;
+  height: calc(100vh - 150px);
+  padding: 0 4rem;
+  overflow: auto;
+}
+@media (max-width: 680px) {
+  .layout main {
+    padding: 0;
+  }
+}/*# sourceMappingURL=styles.module.css.map */

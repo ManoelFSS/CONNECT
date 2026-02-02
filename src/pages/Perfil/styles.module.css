@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  color: img;
+  color-width: 500px;
+  color-height: 500px;
+  color-border-radius: 50%;
+}
+.container .info {
+  display: flex;
+  gap: 40px;
+}
+.container .info div {
+  display: flex;
+  padding: 10px 20px;
+}
+.container .info div p {
+  font-weight: 600;
+}/*# sourceMappingURL=styles.module.css.map */
