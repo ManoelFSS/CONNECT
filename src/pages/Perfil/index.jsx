@@ -1,7 +1,7 @@
 import Styles from "./styles.module.scss";
 import Title from "../../components/ui/Title";
 import Paragraph from "../../components/ui/Paragraph";
-import image from "../../assets/images/Perfil.png";
+import image from "../../assets/images/perfil.png";
 //icons
 import { IoLocationSharp } from "react-icons/io5";
 import { HiOutlineMail } from "react-icons/hi";
