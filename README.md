@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.png" alt="Conecta Jovem - Projetos Sociais" />
+  <img src="./public/banner.png" alt="Conecta Jovem - Projetos Sociais" />
 </p>
 
 
